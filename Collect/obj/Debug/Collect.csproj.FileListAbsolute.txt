@@ -1,0 +1,6 @@
+E:\C\Practice14\Collect\bin\Debug\Collect.exe.config
+E:\C\Practice14\Collect\bin\Debug\Collect.exe
+E:\C\Practice14\Collect\bin\Debug\Collect.pdb
+E:\C\Practice14\Collect\obj\Debug\Collect.csprojAssemblyReference.cache
+E:\C\Practice14\Collect\obj\Debug\Collect.exe
+E:\C\Practice14\Collect\obj\Debug\Collect.pdb
